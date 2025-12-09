@@ -1,0 +1,6 @@
+{
+  "Name": "Tax Calculator",
+  "ProjectType": "Process",
+  "Description": "This project automates the calculation of tax based on user input. It allows users to enter an amount and determines whether tax should be applied.",
+  "MainFile": "Main.xaml"
+}

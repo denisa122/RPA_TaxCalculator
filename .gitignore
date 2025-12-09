@@ -1,0 +1,36 @@
+# UiPath Studio temporary and backup files
+*.local
+*.cache
+*.bak
+*.user
+*.swp
+
+# Logs and execution files
+*.log
+*.txt
+
+# NuGet packages and library files
+packages/
+*.nupkg
+
+# Temporary folders
+.vs/
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.settings
+*.json.user
+
+# UiPath project backup files
+*.backup
+################################################################################
+# Added by UiPath Studio
+# Prevent caching and local artifacts from being committed
+################################################################################
+.local
+################################################################################
+# End of UiPath Studio common ignores
+################################################################################
